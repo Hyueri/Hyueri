@@ -1,11 +1,11 @@
 <div align ="center">
 <h2>No Need to be Formal,Just Call Me х╦╢f·q ヾ(≧▽≦*)o </h2>
-<img src="banner.jpg" width="600">
+<a href="https://www.nicovideo.jp/watch/sm30931386" target="_blank" rel="noopener"><img src="banner.jpg" width="100%" height="275"></a>
 </div>
 
 ## About
 
 <div align="left">
-  Sorry to say, but information about х╦╢f·q is off limits. There's also no reason for you to know me. <br>
-  But.. how did you find my account.. Well, like i care...
+  Sorry to say, but information about х╦╢f·q is off limits. There's also no reason for you to know х╦╢f·q. <br>
+  But.. how did you even manage to get in here??.. huh Whatever, I couldn't care less anyway
 </div>
