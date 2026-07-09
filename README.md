@@ -1,6 +1,6 @@
 <div align ="center">
 <h2>No Need to be Formal,Just Call Me х╦╢f·q ヾ(≧▽≦*)o </h2>
-<img src="banner.jpg">
+<img src="banner.jpg" width ="100%">
 </div>
 
 ## About
