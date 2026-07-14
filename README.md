@@ -1,6 +1,6 @@
 <div align ="center">
 <h2>No Need to be Formal,Just Call Me х╦╢f·q ヾ(≧▽≦*)o </h2>
-<a href="https://www.nicovideo.jp/watch/sm30931386" target="_blank" rel="noopener"><img src="banner.jpg" width="100%" height="275"></a>
+<a href="https://www.nicovideo.jp/watch/sm30931386" target="_blank" rel="noopener"><img src="banner.jpg" width="85%" height="300"></a>
 </div>
 
 ## About
